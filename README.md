@@ -18,4 +18,4 @@ This project demonstrates how Logistic Regression can be effectively used to pre
 
 2. LinkedIn: https://www.linkedin.com/in/uttam-sojitra-6aa781236/
 
-Feel free to reach out for any collaboration, internship opportunities, or project discussions!
+Feel free to reach out for any collaboration, job opportunities, or project discussions!
